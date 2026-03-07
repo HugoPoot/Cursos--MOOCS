@@ -19,7 +19,7 @@ Tienes dos opciones para obtener el proyecto:
 
 #### Opción A: Clonar con Git
 ```bash
-git clone https://github.com/B4sal/ActualizacionDocente.git
+git clone https://github.com/HugoPoot/Cursos--MOOCS.git
 ```
 
 #### Opción B: Descargar ZIP
@@ -74,7 +74,6 @@ git clone https://github.com/B4sal/ActualizacionDocente.git
 - [ ] Base de datos `prueba` creada
 - [ ] Tablas importadas correctamente
 - [ ] Página principal carga sin errores
-- [ ] Puedes navegar por las diferentes secciones
 
 ### Páginas de Prueba
 - **Dashboard**: `http://localhost/servicio/inicial.php`
