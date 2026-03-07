@@ -98,5 +98,9 @@ git clone https://github.com/HugoPoot/Cursos--MOOCS.git
 - **Solución**: Cierra el nodejs y vuelve a darlo de alta
 
 
-  <p>Ahora puedes comenzar a usar el Sistema de Actualización Docente</p>
+  <p>Ahora puedes comenzar a usar el Sistema de Carga de Cursos Moocs</p>
 </div>
+
+## Maneras de Uso
+
+![Iniciamos el XAMPP](img/1.png)
