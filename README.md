@@ -1,3 +1,4 @@
+
 # Cursos--MOOCS
 REPOSITORIO PARA ARCHIVOS DE SERVICIO SOCIAL
 
@@ -66,24 +67,12 @@ git clone https://github.com/HugoPoot/Cursos--MOOCS.git
 2. Ve a: `http://localhost/servicio/inicial.php/`
 3. Deberías ver la página principal del sistema
 
-## ✅ Verificación de Instalación
-
-### Checklist de Verificación
-- [ ] Apache está ejecutándose (verde en XAMPP)
-- [ ] MySQL está ejecutándose (verde en XAMPP)
-- [ ] Base de datos `prueba` creada
-- [ ] Tablas importadas correctamente
-- [ ] Página principal carga sin errores
 
 ### Páginas de Prueba
 - **Dashboard**: `http://localhost/servicio/inicial.php`
 - **Cursos**: `http://localhost/servicio/vercursos.php`
 
 ## 🐛 Solución de Problemas Comunes
-
-### Error: "Could not connect to database"
-- **Causa**: MySQL no está ejecutándose o configuración incorrecta
-- **Solución**: Verifica que MySQL esté activo en XAMPP y revisa `config/conn.php`
 
 ### Error: "Servidor Ofline"
 - **Causa**: servidor nodejs no importado correctamente
@@ -103,5 +92,34 @@ git clone https://github.com/HugoPoot/Cursos--MOOCS.git
 
 ## Maneras de Uso
 
-###Arranque de XAMPP
+### Arranque de XAMPP
 ![Iniciamos el XAMPP](img/1.png)
+
+### Abrimos el inicial.php a travéz del localhost
+![Inicial](img/2.png)
+
+### Arranque del servidor nodejs mediante el botón
+![Iniciamos el servidor](img/3.png)
+
+### Carga del archivo Excel al levantar el servidor
+![carga de archivo](img/4.png)
+
+### Datos cargados correctamente
+![carga](img/5.png)
+
+### Arranque de XAMPP
+![Iniciamos el XAMPP](img/1.png)
+
+### Arranque de XAMPP
+![Iniciamos el XAMPP](img/1.png)
+
+### Arranque de XAMPP
+![Iniciamos el XAMPP](img/1.png)
+
+### Arranque de XAMPP
+![Iniciamos el XAMPP](img/1.png)
+
+### Arranque de XAMPP
+![Iniciamos el XAMPP](img/1.png)
+
+
