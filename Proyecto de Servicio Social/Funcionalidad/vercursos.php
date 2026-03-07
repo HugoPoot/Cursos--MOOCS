@@ -301,6 +301,63 @@ function obtenerFechaHora(){
 }
 
 /////////////////////////////////////////////////
+// IMPRIMIR TABLA
+/////////////////////////////////////////////////
+
+function imprimirTabla(){
+
+    let contenido = document.querySelector(".tabla-problemas").innerHTML;
+
+    let ventana = window.open("", "", "height=800,width=1200");
+
+    ventana.document.write("<html>");
+    ventana.document.write("<head>");
+    ventana.document.write("<title>Imprimir Tabla</title>");
+
+    // Opcional: estilos para que se vea bien al imprimir
+    ventana.document.write(`
+        <style>
+            body{
+                font-family: Arial, sans-serif;
+                padding:20px;
+            }
+
+            table{
+                border-collapse: collapse;
+                width:100%;
+            }
+
+            th, td{
+                border:1px solid #ccc;
+                padding:8px;
+                text-align:left;
+            }
+
+            th{
+                background:#2c3e50;
+                color:white;
+            }
+        </style>
+    `);
+
+    ventana.document.write("</head>");
+    ventana.document.write("<body>");
+
+    ventana.document.write("<h2>Reporte Cursos MOOCS</h2>");
+    ventana.document.write("<p>Generado: "+obtenerFechaHora()+"</p>");
+
+    ventana.document.write(contenido);
+
+    ventana.document.write("</body>");
+    ventana.document.write("</html>");
+
+    ventana.document.close();
+
+    ventana.print();
+
+}
+    
+/////////////////////////////////////////////////
 // EXPORTAR PDF
 /////////////////////////////////////////////////
 
@@ -396,4 +453,5 @@ function exportarExcel(){
 </script>
 
 </body>
+
 </html>
