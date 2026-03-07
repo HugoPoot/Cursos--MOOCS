@@ -103,4 +103,5 @@ git clone https://github.com/HugoPoot/Cursos--MOOCS.git
 
 ## Maneras de Uso
 
+###Arranque de XAMPP
 ![Iniciamos el XAMPP](img/1.png)
