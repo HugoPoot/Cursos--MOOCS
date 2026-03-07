@@ -101,25 +101,26 @@ git clone https://github.com/HugoPoot/Cursos--MOOCS.git
 ### Arranque del servidor nodejs mediante el botón
 ![Iniciamos el servidor](img/3.png)
 
+### confirmar que el Excel cumpla con la estructura 
+![Excel seleccionado](img/6.png)
+
 ### Carga del archivo Excel al levantar el servidor
 ![carga de archivo](img/4.png)
 
 ### Datos cargados correctamente
 ![carga](img/5.png)
 
-### Arranque de XAMPP
-![Iniciamos el XAMPP](img/1.png)
+### Comprobación de carga de datos en phpMyAdmin
+![confirmación de base de datos](img/10.png)
 
-### Arranque de XAMPP
-![Iniciamos el XAMPP](img/1.png)
+### Uso de los espacios de Filtrado para seleccionar la información a obtener
+![filtros](img/7.png)
 
-### Arranque de XAMPP
-![Iniciamos el XAMPP](img/1.png)
+### Descarga de los datos filtrados mediante impresíon, PDF o Excel.
+![Iniciamos el XAMPP](img/8.png)
 
-### Arranque de XAMPP
-![Iniciamos el XAMPP](img/1.png)
+### Ejemplo de PDF generado mediante el filtrado de datos
+![Ejemplo PDF](img/9.png)
 
-### Arranque de XAMPP
-![Iniciamos el XAMPP](img/1.png)
 
 
